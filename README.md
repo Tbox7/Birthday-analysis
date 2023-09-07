@@ -1,3 +1,3 @@
 # Birthday-analysis
 Finds fun facts by using dates to calculate lifespan, zodiac signs, and etc. 
-A fun project to explore python concepts 
+A explorative fun project to see what I could do after a week of learning python!
