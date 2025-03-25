@@ -1,6 +1,5 @@
 #imports
 from datetime import date
-from multiprocessing.connection import answer_challenge
 
 print("Welcome to Life Calculator")
 print("Enter your Birth Month, Day, and Year. ")
